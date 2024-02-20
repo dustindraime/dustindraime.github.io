@@ -367,7 +367,7 @@ Separator
 .separator_small{
     width:30px;
     height:2px;
-    margin:20px 0px;
+    margin:20px auto;
     background: #ff6863;
 }
 
@@ -1025,6 +1025,9 @@ Home Section style
     padding-bottom: 230px;
     position: relative;
     z-index: 1;
+}
+.home_text {
+    margin-left: 20px;
 }
 .home_text h1{
     font-family: 'Raleway', sans-serif;
