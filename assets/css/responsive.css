@@ -53,10 +53,10 @@ Author URI: http://www.xpeedstudio.com
     h2{
         font-size:2rem;
     }
-    p{
+    /* p{
         font-size:90%;
         line-height: 2rem;
-    }
+    } */
     .xs-pull-none{
         float: none !important;
     }
