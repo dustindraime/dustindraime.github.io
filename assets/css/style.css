@@ -1728,3 +1728,13 @@ Footer Section style
     text-decoration: none;
 
 }
+
+.contact-box {
+    p {
+        font-size: 16px;
+    }
+
+    a {
+        color: #ff6863;
+    }
+}
