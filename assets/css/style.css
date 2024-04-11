@@ -1258,6 +1258,7 @@ service section style
 .service_item i.fa,
 .service_item span.icon{
     font-size:3rem;
+    color: #4d4b49;
 }
 .service_item h6{}
 .service_item p{}
