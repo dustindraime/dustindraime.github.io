@@ -998,7 +998,9 @@ Nav Menu style
     background-color: #ff7854 !important;
 }
 
-
+.navbar-brand {
+    /* padding: 5px 15px; */
+}
 /*
 Home Section style
 ==================*/
